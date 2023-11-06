@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17" started-at="2023-10-31T06:04:42Z" finished-at="2023-10-31T06:04:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17" started-at="2023-10-31T06:04:42Z" finished-at="2023-10-31T06:04:42Z">
+      <class name="com.krn.users.deleteuser">
+        <test-method status="PASS" signature="testdeleteuser()[pri:0, instance:com.krn.users.deleteuser@6574b225]" name="testdeleteuser" duration-ms="6" started-at="2023-10-31T11:34:42Z" finished-at="2023-10-31T11:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdeleteuser -->
+      </class> <!-- com.krn.users.deleteuser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
